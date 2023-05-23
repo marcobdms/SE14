@@ -16,10 +16,9 @@ nav a {
 }
 
 .jumbotron {
-    background-image: url(./img/jarritos-mexican-soda-E0txIcqePac-unsplash.jpg);
+    background-image: url(./img/frederick-medina-mcbSkZ3l0xc-unsplash.jpg);
     background-size: cover;
-    height: 80%;
-    width: 100%;
+    background-position: center;
 }
 
 .tittle {
@@ -27,4 +26,3 @@ nav a {
     border-radius: 10px;
     color: white;
 }
-
